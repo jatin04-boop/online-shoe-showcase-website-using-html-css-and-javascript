@@ -65,7 +65,7 @@ project/
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/online-shoes-shopping-website.git
+   git clone https://github.com/jatin04-boop/online-shoes-shopping-website.git
    cd online-shoes-shopping-website
 
 2. Open index.html in your browser to start exploring.
