@@ -17,16 +17,24 @@ This is a responsive and modern e-commerce website built using HTML and CSS, foc
 
 project/
 ├── index.html # Homepage
-├── about.html # About the store
-├── collection.html # Product collection pages (multiple)
-├── feature.html # Featured products
-├── css/style.css # Styling
-├── img/ # Images organized by brand/product
-├── .vscode/ # VS Code settings (optional)
-├── PROJECT PDF.pdf # Project report
-├── PROJECT WORD.docx # Detailed documentation
-├── PROJECT PRESENTATION.pptx # Presentation slides
 
+├── about.html # About the store
+
+├── collection.html # Product collection pages (multiple)
+
+├── feature.html # Featured products
+
+├── css/style.css # Styling
+
+├── img/ # Images organized by brand/product
+
+├── .vscode/ # VS Code settings (optional)
+
+├── PROJECT PDF.pdf # Project report
+
+├── PROJECT WORD.docx # Detailed documentation
+
+├── PROJECT PRESENTATION.pptx # Presentation slides
 
 ---
 
